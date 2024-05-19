@@ -10,7 +10,7 @@ Hire me today and let's turn your vision into reality!
 
 With expertise in Frontend development, Backend, and a versatile skill set, I bring value to every project.
 
-[<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="30"/>](https://github.com/)
+[<img src="https://github.com/ivanstnsk/ivanstnsk/assets/25571153/2ba7f5fc-ce14-47d1-9db9-06454e0321dd" width="30"/>](mailto:ivan@stinsky.dev)
 
 
 
