@@ -20,5 +20,4 @@ Next.js, React, React Native, NodeJS, WebGL
 
 ## My Portfolio
 
-Skills: https://stinsky.dev
-Works: https://stinsky.dev/works
+### https://stinsky.dev
