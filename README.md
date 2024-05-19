@@ -9,3 +9,12 @@ I'm mainly working on web and mobile projects, though I've also dabbled in backe
 Hire me today and let's turn your vision into reality!
 
 With expertise in Frontend development, Backend, and a versatile skill set, I bring value to every project.
+
+## I work with:
+
+Next.js, React, React Native, NodeJS, WebGL
+
+## My Portfolio
+
+Skills: https://stinsky.dev
+Works: https://stinsky.dev/works
