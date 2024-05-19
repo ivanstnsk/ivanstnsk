@@ -10,7 +10,7 @@ Hire me today and let's turn your vision into reality!
 
 With expertise in Frontend development, Backend, and a versatile skill set, I bring value to every project.
 
-[<kbd> <br> Get in Touch <br> </kbd>][https://t.me/stinsky]
+[<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="30"/>](https://github.com/)
 
 
 
